@@ -1,2 +1,4 @@
-# data-science-journey
-As a data enthusiast person, you will find my work based on data science use cases.
+# Some data science use cases
+You will find in this repo, all my work based on data science use cases.
+
+
