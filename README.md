@@ -1,13 +1,12 @@
 # Some Data Science use cases
 You will find in this repo, all my work based on data science use cases.
 
-# Working Steps
+### Working Steps
 1. Find a datasource from where I'am collecting data.
 2. Cleaning and exploring collected data.
 3. Trend visualization and analysis based.
 4. Build a model
 5. Training and model evaluation
-
 6. Model Deployment
 7. Model maintenance 
    
