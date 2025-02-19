@@ -17,7 +17,7 @@ This project is for analysing and predict house prices based on their location, 
 * Techs / Libraries: Pandas, XGBoost
 * Link to the data source:
 * Link to the project file:
-* Challenges: deal with massive dataset
+* Challenges: dealing with massive dataset
 
 
 
